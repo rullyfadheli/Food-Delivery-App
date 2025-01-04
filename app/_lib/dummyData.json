@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Yakisoba Noodle",
+    "details": "Noodle with Pork",
+    "fullDetails": "Yakisoba noodles are a popular Japanese street food that consists of stir-fried wheat noodles mixed with pork, cabbage, carrots, and onions. The noodles are coated in a special yakisoba sauce, which is a blend of soy sauce, Worcestershire sauce, and other seasonings, giving the dish a sweet and savory flavor. Topped with aonori (dried seaweed) and pickled ginger, yakisoba is a flavorful and satisfying dish that is enjoyed by many.",
+    "price": "10",
+    "image": "Yakisoba.png",
+    "popular": true,
+    "recommended": false,
+    "id": "1"
+  },
+  {
+    "title": "Stir-Fried Chicken",
+    "details": "Chicken with Peanuts",
+    "fullDetails": "Stir-fried chicken is a versatile and quick dish that features tender pieces of chicken cooked with a variety of vegetables in a savory sauce. The chicken is marinated and then stir-fried to retain its juiciness, while the vegetables add a crunchy texture. This dish is often flavored with soy sauce, ginger, and garlic, making it a delicious and healthy option for any meal.",
+    "price": "12",
+    "image": "Stir_fried_chicken.png",
+    "popular": true,
+    "recommended": false,
+    "id": "2"
+  },
+  {
+    "title": "Prawn Fried Rice",
+    "details": "Fried Rice with Prawns",
+    "fullDetails": "Prawn fried rice is a delightful combination of succulent prawns and fragrant rice, stir-fried with a mix of vegetables and aromatic spices. The prawns add a sweet and briny flavor to the dish, while the rice is infused with the savory notes of soy sauce and garlic. This dish is often garnished with fresh herbs and a squeeze of lime, making it a refreshing and satisfying meal.",
+    "price": "9",
+    "image": "Prawn_fried_rice.png",
+    "popular": true,
+    "recommended": false,
+    "id": "3"
+  },
+  {
+    "title": "Pork Fried Noodles",
+    "details": "Fried Noodles with Pork",
+    "fullDetails": "Pork fried noodles are a hearty and satisfying dish that combines tender slices of pork with stir-fried noodles and vegetables. The noodles are cooked in a savory sauce made from soy sauce, oyster sauce, and garlic, creating a rich and umami-packed meal. This dish is perfect for those who enjoy a robust and flavorful noodle dish.",
+    "price": "10",
+    "image": "Pork_fried_noodles.png",
+    "popular": false,
+    "recommended": true,
+    "id": "4"
+  },
+  {
+    "title": "Thai Fried Noodles",
+    "details": "Noodles with Shrimp",
+    "fullDetails": "Thai fried noodles, commonly known as Pad Thai, are a staple of Thai cuisine. This dish features rice noodles stir-fried with a combination of eggs, tofu, shrimp or chicken, and a medley of vegetables. The noodles are tossed in a tangy and slightly sweet sauce made from tamarind paste, fish sauce, and palm sugar, then garnished with crushed peanuts and fresh lime for an irresistible flavor.",
+    "price": "12",
+    "image": "Thai_fried_noodles.png",
+    "popular": false,
+    "recommended": true,
+    "id": "5"
+  },
+  {
+    "title": "Sauté fried fish",
+    "details": "Fried Fish with Chili",
+    "fullDetails": "Saute fried fish is a delectable dish where fish fillets are lightly seasoned and sautéed to perfection. The fish develops a crispy, golden-brown crust while maintaining a tender and flaky interior. Often prepared with a touch of lemon juice and herbs, this dish is both flavorful and healthy, making it a favorite for seafood lovers.",
+    "price": "11",
+    "image": "Saute_fried_fish.png",
+    "popular": false,
+    "recommended": true,
+    "id": "6"
+  }
+]
